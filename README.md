@@ -1,4 +1,4 @@
-				                   AIRLINE DATA ANALYTICS PROJECT
+						       AIRLINE DATA ANALYTICS PROJECT
 
  Reducing flight cancellations and delays is essential for both passengers and the airline industry, as these disruptions have far-reaching consequences. They can result in diminished customer satisfaction and financial setbacks for airlines. safeguarding the industry's image, and rebuilding trust among travelers.
 
@@ -107,20 +107,8 @@ Key Takeaways:
 
 Visualizations:
 
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/07089cc6-7927-4ccb-bcff-ab5501285a2e)
 
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/5d8b9dce-8d1e-4526-9bea-c82f43b64c52)
-
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/163326ed-8807-4b14-8ff4-f2c37e2d8cd9)
-
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/275476ff-d164-465d-aea8-48cd0fddeb13)
-
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/4ad68a34-1b36-4dba-b120-3981db2b1dc7)
-
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/49933dae-8fca-4de0-b1f2-1340ce344070)
-
-![image](https://github.com/Jay-05022000/Airline-Data-Analytics/assets/110780565/bca38163-ea08-4e64-9148-7295e66fe803)
-
+Interactive dashboard can be found here : https://github.com/Jay-05022000/Airline-Data-Analytics/blob/main/Visualization%20Dashboard.pbix
 
 
 
