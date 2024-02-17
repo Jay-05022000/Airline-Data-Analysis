@@ -1,4 +1,4 @@
-						       AIRLINE DATA ANALYTICS PROJECT
+				    AIRLINE DATA ANALYTICS PROJECT
 
  Reducing flight cancellations and delays is essential for both passengers and the airline industry, as these disruptions have far-reaching consequences. They can result in diminished customer satisfaction and financial setbacks for airlines. safeguarding the industry's image, and rebuilding trust among travelers.
 
