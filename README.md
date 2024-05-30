@@ -113,6 +113,13 @@ Visualizations:
 Interactive dashboard can be found here : https://github.com/Jay-05022000/Airline-Data-Analytics/blob/main/Visualization%20Dashboard.pbix
 
 
+![first page - visualization report](https://github.com/Jay-05022000/Airline-Data-Analysis/assets/110780565/eb2fbca9-9876-4a2a-9f11-73bba006cba6)
+
+
+![Second page](https://github.com/Jay-05022000/Airline-Data-Analysis/assets/110780565/4194c86a-5b46-4be7-b896-46b6b1089f9a)
+
+
+![Third page](https://github.com/Jay-05022000/Airline-Data-Analysis/assets/110780565/0621964f-09fb-435c-ac3e-50d03590ce0a)
 
 
 
